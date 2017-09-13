@@ -7,3 +7,4 @@ This is a team repo for members of the team {Team ID}
 * [John Doe](members/johnDoe.md)
 * Boo Doe
 * [Lawrence](members/Lawrence.md)
+* Er Doe
